@@ -6,7 +6,7 @@
 
     B. Two Gene Types (Dominant, Recessive) of the two Parents
 
-    C. Two Genotypes (ex. Hh, hh) and Two Phenotypes (ex. Hairy, Not Hairy)
+    C. Two Phenotypes (ex. Hairy, Not Hairy)
 
 2. Outputs:
 
@@ -18,7 +18,7 @@
 
 The redesigned web interface provides a polished, user-friendly experience.
 
-(Try it out now: `https://punnett-square-generator.streamlit.app/`)
+(Try it out now: <https://punnett-square-generator.streamlit.app/>)
 
 ## How to Run Locally
 
