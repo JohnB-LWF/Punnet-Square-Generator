@@ -1,8 +1,5 @@
 """Simple Punnett square generator and offspring calculator.
 File: punnetsquare.py
-Author: ChatGPT (OpenAI)
-Vibe Coder: John B
-Date: 2026-04-16
 Inputs: 
 1. Parent 1 Genotype
 2. Parent 2 Genotype

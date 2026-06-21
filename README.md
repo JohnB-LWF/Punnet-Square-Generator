@@ -1,40 +1,44 @@
-# Punnet Square Requirements
-
+# Punnet Square Generator
 
 1. Inputs:
-   
+
     A. Two Genotypes (ex. Hh, hh)
-   
+
     B. Two Gene Types (Dominant, Recessive) of the two Parents
-   
+
     C. Two Genotypes (ex. Hh, hh) and Two Phenotypes (ex. Hairy, Not Hairy)
-   
-3. Outputs:
-   
+
+2. Outputs:
+
     A. A completed Punnet Square showing the crossing of two Genotypes (in tabular form)
-   
+
     B. The percentages of Phenotypes in the offspring (ex. 50% Hairy, 50% Not Hairy)
-   
 
 ## Web Interface (Streamlit) - Recommended
+
 The redesigned web interface provides a polished, user-friendly experience.
 
-(Try it out now: https://punnett-square-generator.streamlit.app/)
+(Try it out now: `https://punnett-square-generator.streamlit.app/`)
+
+## How to Run Locally
 
 1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 2. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
+
+    ```bash
+    streamlit run app.py
+    ```
 
 3. Open your browser to the URL displayed (usually `http://localhost:8501`)
 
 ## Command Line Interface
-The original command-line version is available in `punnetsquare.py`:
+
+The original command-line version is also available in `punnetsquare.py` and can be run completely within PowerShell or Bash and does not require the StreamLit package:
 
 ```bash
 python punnetsquare.py
