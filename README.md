@@ -1,4 +1,4 @@
-# Punnet Square Generator
+# Punnett Square Generator
 
 1. Inputs:
 
@@ -10,7 +10,7 @@
 
 2. Outputs:
 
-    A. A completed Punnet Square showing the crossing of two Genotypes (in tabular form)
+    A. A completed Punnett Square showing the crossing of two Genotypes (in tabular form)
 
     B. The percentages of Phenotypes in the offspring (ex. 50% Hairy, 50% Not Hairy)
 
@@ -38,10 +38,10 @@ The redesigned web interface provides a polished, user-friendly experience.
 
 ## Command Line Interface
 
-The original command-line version is also available in `punnetsquare.py` and can be run completely within PowerShell or Bash and does not require the StreamLit package:
+The original command-line version is also available in `punnettsquare.py` and can be run completely within PowerShell or Bash and does not require the StreamLit package:
 
 ```bash
-python punnetsquare.py
+python punnettsquare.py
 ```
 
 ## Streamlit Features

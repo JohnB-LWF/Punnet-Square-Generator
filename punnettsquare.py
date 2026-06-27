@@ -1,5 +1,5 @@
 """Simple Punnett square generator and offspring calculator.
-File: punnetsquare.py
+File: punnettsquare.py
 Inputs: 
 1. Parent 1 Genotype
 2. Parent 2 Genotype
